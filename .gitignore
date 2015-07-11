@@ -20,7 +20,7 @@
 *.tar
 *.zip
  
-# Logs and databases #
+# Logs               #
 ######################
 *.log
  
@@ -33,3 +33,13 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+# Special folders    #
+######################
+RemoteSystemsTempFiles/
+workspace/.metadata
+workspace/.recomenders
+workspace/Servers/.settings
+**/bin/
+workspace/InnoEventManager/.settings

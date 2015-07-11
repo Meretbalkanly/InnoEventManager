@@ -13,5 +13,9 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/user.MININT-0SK06HQ/Downloads/ormlite-core-4.49-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user.MININT-0SK06HQ/Downloads/ormlite-core-4.49-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user.MININT-0SK06HQ/Downloads/ormlite-jdbc-4.49-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user.MININT-0SK06HQ/Downloads/ormlite-jdbc-4.49-SNAPSHOT-javadoc.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

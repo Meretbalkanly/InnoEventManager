@@ -1,2 +1,0 @@
-INDEX VERSION 1.3+C:\Users\user.MININT-0SK06HQ\Documents\GitHub\InnoEventManager\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3116008566.index
