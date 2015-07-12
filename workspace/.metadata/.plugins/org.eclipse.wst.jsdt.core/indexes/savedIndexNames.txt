@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\Users\user.MININT-0SK06HQ\Documents\GitHub\InnoEventManager\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4192058146.index
+708853063.index
+3116008566.index
+2270126108.index
+1360933171.index
+3353133518.index
+1982462052.index
