@@ -39,7 +39,7 @@ Thumbs.db
 ######################
 RemoteSystemsTempFiles/
 workspace/.metadata
-workspace/.recomenders
-workspace/Servers/.settings
+workspace/.recommenders
+workspace/Servers/.settings/
 **/bin/
 workspace/InnoEventManager/.settings
